@@ -3,6 +3,10 @@
 MolView is a fast Lister plugin for Total Commander that renders chemical files in 2D and 3D.
 It uses OpenBabel for format conversion and OpenGL for interactive display.
 
+![2D](lister.png)
+![3D](lister_3d.png)
+![2D](thumbs.png)
+
 ## Features
 - Broad chemistry format support (`.mol`, `.sdf`, `.mol2`, `.smi`, `.smiles`, `.pdb`, `.xyz`, `.cml`)
 - 2D structure rendering with SVG parsing and crisp label rendering
